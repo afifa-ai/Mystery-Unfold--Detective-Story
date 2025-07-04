@@ -1,5 +1,4 @@
 # Mystery-Unfold--Detective-Story
-Sure! Here's a **short and clean GitHub overview** for your game:
 
 ## 🔍 Mystery Unfolds - Detective Game (C# WinForms)
 
